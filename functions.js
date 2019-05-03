@@ -3,6 +3,11 @@
 
 //your code here
 
+//definition
+var text = returnTwoPlusThree = function(){
+	//function definition
+	return"2 + 3"
+}
 //A function has two parts:
-//an definition and an invocation
-
+//an definition and an invocatioreturnTwoPlusThree
+returnTwoPlusThree();
